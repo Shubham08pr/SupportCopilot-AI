@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Node / Angular
+node_modules/
+dist/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
