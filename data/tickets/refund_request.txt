@@ -1,0 +1,2 @@
+Customer: I want a refund.
+Agent: Refunds are processed within 5–7 days.

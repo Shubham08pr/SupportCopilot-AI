@@ -1,0 +1,3 @@
+Title: Tax Information
+
+GST is applicable based on billing location.

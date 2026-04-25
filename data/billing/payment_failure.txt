@@ -1,0 +1,6 @@
+Title: Payment Failure
+
+If payment fails:
+- Check balance
+- Retry payment
+- Contact bank if needed

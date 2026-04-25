@@ -1,0 +1,6 @@
+Title: Dashboard
+
+Shows:
+- Active tasks
+- Progress
+- Team performance

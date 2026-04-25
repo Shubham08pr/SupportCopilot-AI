@@ -1,0 +1,5 @@
+Title: Sync Issues
+
+Data may not sync due to:
+- Network failure
+- Server delay

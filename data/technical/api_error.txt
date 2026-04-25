@@ -1,0 +1,6 @@
+Title: API Errors
+
+If API fails:
+- Check request format
+- Retry request
+- Contact support

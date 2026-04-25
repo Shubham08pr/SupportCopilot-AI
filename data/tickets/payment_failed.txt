@@ -1,0 +1,2 @@
+Customer: My payment failed.
+Agent: Please retry or check with your bank.

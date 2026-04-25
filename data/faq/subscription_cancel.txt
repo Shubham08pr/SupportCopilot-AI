@@ -1,0 +1,7 @@
+Title: Subscription Cancellation
+
+Q: How do I cancel my subscription?
+A: Go to billing settings and click "Cancel Subscription".
+
+Q: Will I be charged after cancellation?
+A: No, but access continues until the billing period ends.

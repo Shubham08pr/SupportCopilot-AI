@@ -1,0 +1,7 @@
+Title: Integrations
+
+Q: Does TaskFlow support Slack?
+A: Yes, Slack integration is available.
+
+Q: Can I connect GitHub?
+A: Yes, GitHub integration is supported.

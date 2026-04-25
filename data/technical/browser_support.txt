@@ -1,0 +1,6 @@
+Title: Browser Support
+
+Supported browsers:
+- Chrome
+- Firefox
+- Edge

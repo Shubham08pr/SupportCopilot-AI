@@ -1,0 +1,7 @@
+Title: Mobile App
+
+Q: Is there a mobile app?
+A: Yes, available on Android and iOS.
+
+Q: Can I manage tasks on mobile?
+A: Yes, full functionality is supported.

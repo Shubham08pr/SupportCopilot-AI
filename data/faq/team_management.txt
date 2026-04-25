@@ -1,0 +1,7 @@
+Title: Team Management
+
+Q: How do I add team members?
+A: Go to team settings and invite via email.
+
+Q: Can I remove a user?
+A: Yes, admins can remove users anytime.

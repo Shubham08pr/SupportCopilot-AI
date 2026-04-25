@@ -1,0 +1,5 @@
+Title: Subscription Plans
+
+Basic: Free with limited features
+Pro: ₹499/month
+Enterprise: Custom pricing

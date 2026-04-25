@@ -1,0 +1,6 @@
+Title: App Crash
+
+Steps:
+- Restart app
+- Update app
+- Reinstall if needed

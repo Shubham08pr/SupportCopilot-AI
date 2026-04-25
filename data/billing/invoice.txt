@@ -1,0 +1,3 @@
+Title: Invoices
+
+Invoices are generated monthly and available in billing dashboard.

@@ -1,0 +1,7 @@
+Title: Notifications
+
+Q: How do I enable notifications?
+A: Go to settings and enable notifications.
+
+Q: Can I disable email alerts?
+A: Yes, you can customize notification preferences.

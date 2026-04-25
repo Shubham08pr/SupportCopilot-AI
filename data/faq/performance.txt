@@ -1,0 +1,7 @@
+Title: Performance Issues
+
+Q: Why is the app slow?
+A: Try clearing cache or checking internet connection.
+
+Q: Does large data affect speed?
+A: Yes, large projects may slow down performance.

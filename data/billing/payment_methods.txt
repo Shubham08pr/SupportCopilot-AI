@@ -1,0 +1,6 @@
+Title: Payment Methods
+
+We accept:
+- Credit/Debit cards
+- UPI
+- Net banking

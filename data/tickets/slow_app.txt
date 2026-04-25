@@ -1,0 +1,2 @@
+Customer: The app is very slow.
+Agent: Please clear cache and check your internet connection.

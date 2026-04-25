@@ -1,0 +1,6 @@
+Title: Permissions
+
+Roles:
+- Admin
+- Member
+- Viewer

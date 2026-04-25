@@ -1,0 +1,3 @@
+Title: Project Setup
+
+Create project from dashboard and invite team members.

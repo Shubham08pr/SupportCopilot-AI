@@ -1,0 +1,6 @@
+Title: Task Creation
+
+Steps:
+- Click "New Task"
+- Add title and description
+- Assign to team member

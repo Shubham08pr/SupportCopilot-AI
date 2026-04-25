@@ -1,0 +1,10 @@
+Title: Account Help
+
+Q: How do I reset my password?
+A: Click "Forgot Password" on the login page and follow instructions.
+
+Q: I did not receive reset email.
+A: Check spam folder or try again after 5 minutes.
+
+Q: Can I change my email?
+A: Yes, go to account settings and update email.
