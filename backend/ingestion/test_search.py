@@ -1,5 +1,5 @@
-from vector_store import FAISSStore
-from app.services.embedding_service import get_embedding
+from backend.ingestion.vector_store import FAISSStore
+from backend.app.services.embedding_service import get_embedding
 
 store = FAISSStore()
 store.load("faiss_store.pkl")

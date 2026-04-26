@@ -9,6 +9,7 @@ from backend.ingestion.vector_store import FAISSStore
 # 🔥 Always resolve project root correctly
 BASE_DIR = Path(__file__).resolve().parents[2]
 DATA_PATH = BASE_DIR / "data"
+STORE_PATH = BASE_DIR / "faiss_store.pkl"
 
 def main():
     print("🔍 DATA PATH:", DATA_PATH)
