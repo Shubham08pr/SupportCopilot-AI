@@ -4,7 +4,7 @@ def build_chunks(documents):
     chunked_docs = []
 
     for doc in documents:
-        chunks = chunk_text(doc["text"])
+        chunks = chunk_text(doc["text"], doc["category"]) 
 
         for chunk in chunks:
             chunked_docs.append({
